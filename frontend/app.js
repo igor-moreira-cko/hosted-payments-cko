@@ -11,9 +11,9 @@ const exampleRequest = {
         name: "Bruce Wayne",
         email: "brucewayne@gmail.com"
     },
-    success_url: "/success",
-    cancel_url: "/cancel",
-    failure_url: "/failure",
+    success_url: "http://example.com/success",
+    cancel_url: "http://example.com/cancel",
+    failure_url: "http://example.com/failure",
 }
 
 const getHostedPaymentsPage = async () => {

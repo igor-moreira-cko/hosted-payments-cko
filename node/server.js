@@ -1,10 +1,10 @@
-require('dotenv').config()
+
 const express = require('express');
 const app = express();
 const path = require('path');
 const axios = require('axios');
 
-const secretKey = process.env.SECRET_KEY;
+const API_KEY = 'ENTER YOU SECRET KEY'
 
 app.use(express.json());
 
@@ -28,7 +28,7 @@ app.post('/getHostedPaymentPage', (req, res) => {
     const options = {
         headers: {
             "Content-Type": "application/json",
-            "Authorization": secretKey,
+            "Authorization": API_KEY,
         },
     }
 
