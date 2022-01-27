@@ -74,9 +74,6 @@
   </ol>
 </details>
 
-
-
-
 ### Built With
 
 * [Node.js](https://nodejs.org/)
@@ -148,11 +145,11 @@ Project Link: [https://github.com/igor-moreira-cko/hosted-payments-cko](https://
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/igor-moreira-cko/hosted-payments-cko
 [forks-url]: https://github.com/igor-moreira-cko/hosted-payments-cko/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/igor-moreira-cko/hosted-payments-cko
 [stars-url]: https://github.com/igor-moreira-cko/hosted-payments-cko/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/igor-moreira-cko/hosted-payments-cko
 [issues-url]: https://github.com/igor-moreira-cko/hosted-payments-cko/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
