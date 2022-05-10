@@ -1,34 +1,9 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/igor-moreira-cko/hosted-payments-cko">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Checkout.com Hosted Payments</h3>
 
@@ -102,32 +77,22 @@ To get a local copy up and running follow these simple example steps.
 
 1. Get a free API Key at [Checkout.com - Get test account](https://www.checkout.com/get-test-account)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your Secret API key in `/node/server.js`
+   
    ```js
    const API_KEY = 'ENTER YOUR SECRET KEY';
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<strong>Simple checkout page with buttons:</strong>
-<br/>
-![Checkout page](/screenshots/Checkout.png?raw=true "Checkout page")
-
-<strong>Hosted Payments page:</strong>
-<br/>
-![Hosted Payments page](/screenshots/Payment.png?raw=true "Hosted Payments page")
-_For more examples, please refer to the [Documentation](https://www.checkout.com/docs/integrate/hosted-payments-page)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

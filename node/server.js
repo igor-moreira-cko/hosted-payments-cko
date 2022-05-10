@@ -1,10 +1,12 @@
+require('dotenv').config()
+const path = require('path');
 
 const express = require('express');
 const app = express();
-const path = require('path');
+
 const axios = require('axios');
 
-const API_KEY = 'ENTER YOU SECRET KEY'
+const API_KEY = process.env.SECRET_KEY
 
 app.use(express.json());
 
